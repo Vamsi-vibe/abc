@@ -6,4 +6,4 @@ statsmodels
 scikit-learn
 xgboost
 tensorflow
-pyngrok
+
